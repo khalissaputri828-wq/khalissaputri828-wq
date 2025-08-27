@@ -1,49 +1,15 @@
-# Hi 👋, I'm khalissa putri sadillah
 
-****
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khalissaputri828-wq&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khalissaputri828-wq&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalissaputri828-wq&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> 
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" /> 
-
-## 🌐 Socials
-
-<div align="center">
-
-
-
-</div>
-
-## 📫 How to reach me
-
-<div align="left">
-
-📧 **Email:** [khalissaputri828@gmail.com](mailto:khalissaputri828@gmail.com)
-
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khalissaputri828-wq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-⭐️ From [khalissa putri sadillah](https://github.com/)
+[![](https://visitcount.itsvg.in/api?id=khalissaputri828-wq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
